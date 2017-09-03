@@ -13,3 +13,7 @@
 - Finished [version-control-with-git](https://cn.udacity.com/course/version-control-with-git--ud123) 
 - Making iOS app
 - Finished Problem Solving with Algorithms and DataStructures 50pages
+
+2017.9.3
+- Finished Linux鸟哥私房菜18章
+
