@@ -19,3 +19,4 @@
 
 2017.9.4
 - Finished [Crash Course Computer Science #1-10](https://www.youtube.com/watch?v=nwDq4adJwzM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=11)
+- Read 1 hour django source code
